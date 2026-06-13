@@ -1,0 +1,17 @@
+MAX_WORDS = 10000
+
+MAX_LENGTH = 200
+
+EMBEDDING_DIM = 100
+
+TEST_SIZE = 0.2
+
+RANDOM_STATE = 42
+
+BATCH_SIZE = 128
+
+EPOCHS = 8
+
+MODEL_PATH = "models/sentiment_cnn_glove.h5"
+
+TOKENIZER_PATH = "models/tokenizer.pkl"
